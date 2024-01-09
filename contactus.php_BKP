@@ -1,0 +1,821 @@
+<?php include("header.php"); ?>
+<div class="wrap">
+	<div class="grid-container">
+		<div class="grid-80">
+			<div class="grid-block">
+				<div class="index-intro-text">
+					<h1>Contact Us</h1>
+	<p>Training and placement cell (TPC) of the institute handles all aspects of placements at IIT Patna for the graduating students of all departments. Right from contacting companies to managing all logistics of arranging for tests, pre placement talks and conducting final interviews the Training and Placement Cell officials and volunteers provide their best possible assistance to the recruiters.</p>
+
+<p>Interested companies can directly contact through email:  <span style="color:#0000FF;font-weight:bold;">tpc@iitp.ac.in</span> & <span style="color:#0000FF;font-weight:bold;">pic_tnp@iitp.ac.in</span><br /> Please feel free to contact us at - 0612-302-8091/8083 and +91-8102917501</p>
+
+</p><h2><u>Professor In-charge</u></h2>
+<table style="width:100%;">
+	<tr>
+		<td style="width:50%;">
+			<img style="height:98px;" class="facimage" src="https://www.iitp.ac.in/images/faculty_profile/cbe/Jose-Parambil.jpg" />
+			<div class="facinfo">
+				<b>Dr. Jose V Parambil</b><br />
+				 Phone No.: +91-612-3028761<br />
+			<!--	 Mobile No.: +91-9631221406<br />	-->
+				Email: pic_tnp@iitp.ac.in, tpc@iitp.ac.in
+			</div>
+		</td>
+	</tr>
+</table>
+<h2><u>Team</u></h2>
+<table style="width:100%;">
+	<tr>
+		
+		<td style="width:50%;">
+			<img class="facimage" src="https://www.iitp.ac.in/images/faculty/Amarnath-Hegde.jpg">
+			<div class="facinfo">
+				<b>Dr. Amarnath Hegde</b><br />
+			<!--	Phone No: +91-612-3028031<br />
+				 Mobile   : +91-9470062488<br />
+				Email    : ahegde@iitp.ac.in<br /> -->
+			</div>
+		</td>
+		
+		<td style="width:50%;">
+			<img class="facimage" src="https://www.iitp.ac.in/images/faculty/Sumanta.jpg">
+			<div class="facinfo">
+				<b>Dr. Sumanta Gupta</b><br />
+			<!--	Phone No: +91-612-3028096<br />
+				 Mobile   : +91-9470062488<br /> 
+				Email    : sumanta@iitp.ac.in<br />-->
+			</div>
+		</td>
+		
+		</tr>
+	<tr>
+				
+		<td style="width:50%;">
+			<img class="facimage" src="https://www.iitp.ac.in/images/faculty_profile/cse/Mayank_Agarwal.jpg">
+			<div class="facinfo">
+				<b>Dr. Mayank Agarwal</b><br />
+				<!--Phone No: +91-612-3028347<br />
+				 Mobile   : +91-9470062488<br /> 
+				Email    : mayank265@iitp.ac.in -->
+			</div>
+		</td>
+		
+		<td style="width:50%;">
+		<img class="facimage" src="https://www.iitp.ac.in/images/faculty_profile/me/surajit.JPG">
+			<div class="facinfo">
+			<b>Dr. Surajit Kumar Paul</b><br />
+		<!--	Phone No: +91-612-3028709<br />
+			 Mobile   : +91-9470062488<br /> 
+			Email    : surajit@iitp.ac.in  -->
+			</div>
+		</td>
+		
+	</tr>
+	<tr>
+		<td style="width:50%;">
+			<img class="facimage" src="https://www.iitp.ac.in/images/faculty/dinesh.png">
+			<div class="facinfo">
+				<b>Dr. Dinesh Kumar Kotnees<br /></b>
+			<!--  	Phone No.: +91-612-3028185<br />
+				Mobile No.: +91-9631221406<br /> 
+			  	Email: dinesh@iitp.ac.in   -->
+			</div>
+		</td>
+	</tr>
+
+</table>
+  <hr>
+ <h2><u>TPC Officials</u></h2>
+<table style="width:100%;">
+	<tr>
+	<!--	
+		<td style="width:50%;">
+		<img class="facimage" style="height:100px; width:100px;" src="https://www.iitp.ac.in/placement/images/staff/Argha_TPO.jpg">
+		
+		<div class="facinfo">
+			<b>Mr. Argha Chatterjee</b><br />
+			Training and placement Officer (TPO)<br />
+			Phone No: +91-9816852900<br />	
+			Mobile   : +91-9802601715<br /> 
+			Email    : 	arghac@iitp.ac.in	
+			</div>
+		</td>		
+	-->	
+		<td style="width:50%;">
+		<img class="facimage" style="height:90px;" src="https://www.iitp.ac.in/images/staff/Kripa_Shankar.jpg">
+		<div class="facinfo">
+			<b>Mr. Kripa Shankar Singh</b><br />
+			Training and placement Officer (TPO)<br />
+			Phone No: +91-0612-3028091<br />	
+			Mobile   : +91-8102917501<br /> 
+			Email    : kripa@iitp.ac.in | tpc@iitp.ac.in	
+			</div>
+		</td>
+       
+		
+	<!--	<td style="width:50%;">
+			<img class="facimage" style="height:100px;" src="images/staff/ashish_kumar.jpg">
+			<div class="facinfo">
+				<b>Mr. Ashish Kumar</b><br />
+				Phone No: +91-612-3028083<br />
+				<!--Mobile: +91-9570877364<br />
+				 Mobile   : +91-9470062488<br />
+				Email    : ashishkumar@iitp.ac.in<br /> -->
+			</div>
+		</td>
+		<td style="width:50%;">
+		<img class="facimage" src="https://www.iitp.ac.in/images/Neeraj.jpg">
+			<div class="facinfo">
+			<b>Mr. Neeraj Kumar</b><br />
+			Jr. Superintendent<br />
+			Phone No: +91-612-3028083<br />
+		<!--	Mobile: +91-9835210110<br />	-->
+			<!-- Mobile   : +91-9470062488<br /> -->
+			Email    : neeraj@iitp.ac.in
+			</div>
+		</td>
+		
+		<td style="width:50%;">
+		<img class="facimage" style="height:100px; width:90px;" src="https://www.iitp.ac.in/images/staff/aksingh.jpg">
+		<div class="facinfo">
+			<b>Mr. Amit Kumar Singh</b><br />
+			Jr. Assistant<br />
+		<!--	Phone No: +91-9816852900<br />	-->
+			Phone no : 0612-3028083<br /> 
+			Email    : aksingh@iitp.ac.in	
+			</div>
+		</td>
+		
+	</tr>
+</table>
+<hr />
+<p><b>Address</b><br />
+  Training and Placement Cell,<br />
+  IIT Patna, Bihta Campus,<br />
+  Bihta Kanpa Road, Bihta,<br />
+  Bihar Pin - 801106, India.<br />
+</p>
+ <hr />
+<!--
+ <p>
+<b>Office Assistant</b><br />
+Mr. Arvind Prakash<br />
+Phone No.: +91-612-3028083<br>
+Email:
+<a href="mailto:tpc@iitp.ac.in">tpc@iitp.ac.in</a></br>
+</p>
+-->
+
+<h2>Student Representatives</h2><hr />
+
+<h3><u>Head Coordinator</u></h3>
+<table style="width:100%;">
+
+<tr>
+	<td style="width:33%;">
+		<img class="coordimage" src="images/coord/btech/1601CS30_Piyush_Singh.png">
+		<div class="coordinfo">
+	<p>
+	Piyush Singh<br />(B.Tech Head coordinator)<br>
+	<!--<a href="mailto:piyush.cs16@iitp.ac.in">piyush.cs16@iitp.ac.in</a></br>-->
+	+91-9650840949
+	</p>
+	</td>
+	
+	<td style="width:33%;">
+		<img class="coordimage" src="images/coord/1811ee13.jpg">
+		<div class="coordinfo">
+	<p>
+	Vishal Kalyan Waghmare<br>(M.Tech Head coordinator)<br>
+	<!--<a href="mailto:1811ee13@iitp.ac.in">1811ee13@iitp.ac.in</a></br>-->
+	+91-9503302056
+	</p>
+	</td>
+	
+	<td style="width:33%;">
+		<img class="coordimage" src="images/coord/1812MA03_Kumar_Abhishek.jpg">
+		<div class="coordinfo">
+	<p>
+	Kumar Abhishek<br>(M.Sc. Head coordinator)<br>
+	<!--<a href="mailto:1812ma03@iitp.ac.in">1812ma03@iitp.ac.in</a></br>-->
+	+91-9661805419
+	</p>
+	</td>
+	
+</tr>
+</table>
+
+<h3><u>Asst. Head Coordinator</u></h3>
+<h4>B.Tech. Asst. Head Coordinator:</h4>
+<table>
+	<tr>
+		
+		<td style="width:33%;">
+			<img class="coordimage" src="images/coord/btech/1601CS16.jpg">
+		<div class="coordinfo">
+			<p>
+		Jammigumpula Venkata Narayana<br>(Computer Science & Engineering)<br>
+		<!--<a href="mailto:jammigumpula.cs16@iitp.ac.in">jammigumpula.cs16@iitp.ac.in</a></br>-->
+		+91-7702611082
+		</p></td>
+		
+		
+		<td style="width:33%;">
+			<img class="coordimage" src="images/coord/btech/1601EE46_Shivesh_Yadav.jpg">
+		<div class="coordinfo">
+			<p>
+		Shivesh Yadav<br>(Electrical Engineering)<br>
+		<!--<a href="mailto:shivesh.ee16@iitp.ac.in">shivesh.ee16@iitp.ac.in</a></br>-->
+		+91-9531610498
+		</p></td>
+
+		<td style="width:33%;">
+			<img class="coordimage" src="images/coord/btech/1601ME27_pratik_rajke.jpg">
+			<div class="coordinfo">
+				<p>
+		Pratik Mayur Rajke<br>(Mechanical Engineering)<br>
+		<!--<a href="mailto:rajke.me16@iitp.ac.in">rajke.me16@iitp.ac.in</a></br>-->
+		+91-8605031009
+		</p></td>
+		
+</tr>
+<tr>
+		<td style="width:33%;">
+			<div class="coordinfo">
+					<img class="coordimage" src="images/coord/btech/1601CB17_Rajat_Gupta.jpg">
+				<p>
+		Rajat Gupta <br>(Chemical Engineering)<br>
+		<!--<a href="mailto:rajat.cb16@iitp.ac.in">rajat.cb16@iitp.ac.in</a></br>-->
+		+91-9955529931
+		</p></td>
+		<td style="width:33%;">
+			<div class="coordinfo">
+
+						<img class="coordimage" src="images/coord/btech/1601CE22_Satyaki Barman.jpg">
+				<p>
+		Satyaki Barman<br>(Civil Engineering)<br>
+		<!--<a href="mailto:satyaki.ce16@iitp.ac.in">satyaki.ce16@iitp.ac.in</a></br>-->
+		+91-7632817587
+		</p></td>
+
+	</tr>
+</table>
+
+<h4>B.Tech. Student’s Coordinator:</h4>
+<table>
+	<tr>
+		
+	<!--	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/btech/1501CS13.jpg">
+		<div class="coordinfo">
+			<p>
+		Nilendu Shubham<br>(Computer Science & Engineering)<br>
+		<a href="mailto:dubey.cs15@iitp.ac.in">dubey.cs15@iitp.ac.in</a></br>
+		+91-9407037812
+		</p></td>
+		
+	-->	
+		<td style="width:33%;">
+			<img class="coordimage" src="images/coord/btech/1601EE27_NilenduShubham.jpg">
+		<div class="coordinfo">
+			<p>
+		Nilendu Shubham<br>(Electrical Engineering)<br>
+		<!--<a href="mailto:nilendu.ee16@iitp.ac.in">nilendu.ee16@iitp.ac.in</a></br>-->
+		+91-8292508959
+		</p></td>
+
+		<td style="width:33%;">
+			<img class="coordimage" src="images/coord/btech/1601ME15_JASKARAN.jpg">
+			<div class="coordinfo">
+				<p>
+		Jaskaran Singh Chhabra<br>(Mechanical Engineering)<br>
+		<!--<a href="mailto:jaskaran.me16@iitp.ac.in">jaskaran.me16@iitp.ac.in</a></br>-->
+		+91-9694702555
+		</p></td>
+		
+		<td style="width:33%;">
+			<div class="coordinfo">
+					<img class="coordimage" src="images/coord/btech/1601ME46_VIJAY_SHARMA.jpg">
+				<p>
+		Vijay Sharma<br>(Mechanical Engineering)<br>
+		<!--<a href="mailto:vijay.me16@iitp.ac.in">vijay.me16@iitp.ac.in</a></br>-->
+		+91-9560643680
+		</p></td>
+		
+		<td style="width:33%;">
+			<div class="coordinfo">
+					<img class="coordimage" src="images/coord/btech/1601ME23_Nitin_Kashyap.jpg">
+				<p>
+		Nitin kashyap<br>(Mechanical Engineering)<br>
+		<!--<a href="mailto:nitin.me16@iitp.ac.in">nitin.me16@iitp.ac.in</a></br>-->
+		+91-7481826585
+		</p></td>
+		
+</tr>
+<tr>
+		
+		<td style="width:33%;">
+			<div class="coordinfo">
+
+						<img class="coordimage" src="images/coord/btech/1601CB14_Patel Parth.jpg">
+				<p>
+		Patel Parth<br>(Chemical Engineering)<br>
+		<!--<a href="mailto:patel.cb16@iitp.ac.in">patel.cb16@iitp.ac.in</a></br>-->
+		+91-8140989334
+		</p></td>
+		
+		<td style="width:33%;">
+			<div class="coordinfo">
+
+						<img class="coordimage" src="images/coord/btech/ankit.ce16.jpg">
+				<p>
+		Ankit Rai <br>(Civil Engineering)<br>
+		<!--<a href="mailto:ankit.ce16@iitp.ac.in">ankit.ce16@iitp.ac.in</a></br>-->
+		+91-9455007758
+		</p></td>
+	<!--	
+		<td style="width:33%;">
+			<div class="coordinfo">
+
+						<img class="coordimage" src="images/coord/btech/1501CH12.jpg">
+				<p>
+		Divyanshu Khandelwal<br>(Chemical Science & Technology)<br>
+		<a href="mailto:divyanshu.ch15@iitp.ac.in">divyanshu.ch15@iitp.ac.in</a></br>
+		+91-9468822096
+		</p></td>
+		
+		<td style="width:33%;">
+			<div class="coordinfo">
+
+						<img class="coordimage" src="images/coord/btech/1501CE09.jpg">
+				<p>
+		Mohit Singh<br>(Civil Engineering)<br>
+		<a href="mailto:mohit.ce15@iitp.ac.in">mohit.ce15@iitp.ac.in</a></br>
+		+91-9661205920
+		</p></td>
+	-->
+	</tr>
+</table>
+
+<h4>M.Tech. Asst. Head Coordinator:</h4>
+<table>
+	<tr>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/mtech/1811cs13_rajeev.jpg">
+		<div class="coordinfo">
+			<p>Rajeev Raushan<br>(Computer Science and Engineering)<br>
+		<!--<a href="mailto:1811cs13@iitp.ac.in">1811cs13@iitp.ac.in</a></br>-->
+		+91-9891055809
+		</p></td>
+		
+			<td style="width:33%;">
+			<img class="coordimage" src="images/coord/mtech/sunny_mishra.jpg">
+		<div class="coordinfo">
+			<p>Sunny Mishra<br>(Civil and Environmental Engineering)<br>
+		<!--<a href="mailto:1811ce13@iitp.ac.in">1811ce13@iitp.ac.in</a></br>-->
+		+91-9675986781
+		</p></td>
+		
+			<td style="width:33%;">
+			<img class="coordimage" src="images/coord/mtech/1811mc12_Suman_Shekhar.jpg">
+		<div class="coordinfo">
+			<p>Suman Shekhar<br>(Mathematics and Computing)<br>
+		<!--<a href="mailto:1811mc12@iitp.ac.in">1811mc12@iitp.ac.in</a></br>-->
+		+91-9693123246
+		</p></td>
+		
+			<td style="width:33%;">
+			<img class="coordimage" src="images/coord/mtech/Rajnish_Mishra.jpg">
+		<div class="coordinfo">
+			<p>Rajnish Mishra<br>(Mechanical Engineering)<br>
+		<!--<a href="mailto:1811me08@iitp.ac.in">1811me08@iitp.ac.in</a></br>-->
+		+91-7017981966
+		</p></td>
+		
+	</tr><tr>	
+			<td style="width:33%;">
+			<img class="coordimage" src="images/coord/mtech/Faiq_Ahmad.jpg">
+		<div class="coordinfo">
+			<p>Faique Shakil<br>(Materials Science and Engineering)<br>
+		<!--<a href="mailto:1811ms02@iitp.ac.in">1811ms02@iitp.ac.in</a></br>-->
+		+91-7905627151
+		</p></td>
+		
+			<td style="width:33%;">
+			<img class="coordimage" src="images/coord/mtech/1811mt04.png">
+		<div class="coordinfo">
+			<p>Aditya S Ratnaparkhi<br>(Mechatronics)<br>
+		<!--<a href="mailto:1811mt04@iitp.ac.in">1811mt04@iitp.ac.in</a></br>-->
+		+91-7972011494
+		</p></td>
+		
+			<td style="width:33%;">
+			<img class="coordimage" src="images/coord/mtech/1811nt08_Pushp_Raj.jpg">
+		<div class="coordinfo">
+			<p>Pushp Raj <br>(Nanoscience & Technology)<br>
+		<!--<a href="mailto:1811nt08@iitp.ac.in">1811nt08@iitp.ac.in</a></br>-->
+		+91-9717850924
+		</p></td>
+		
+			<td style="width:33%;">
+			<img class="coordimage" src="images/coord/mtech/1811ee19.jpg">
+		<div class="coordinfo">
+			<p>Sourabh Singh<br>(VLSI & Embedded System)<br>
+		<!--<a href="mailto:1811ee19@iitp.ac.in">1811ee19@iitp.ac.in</a></br>-->
+		+91-8318282031
+		</p></td>
+	</tr>	
+</table>
+<!--
+<hr>
+<b>B.Tech. Coordinators 4<sup>th</sup> Year</b><br />
+<br>
+<b>Computer Science Engineering</b><br />
+<table style="width:100%;">
+<tr>
+</br>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/bora.jpg">
+		<div class="coordinfo">
+			<p>
+		Bora Raghu Ram Reddy<br>(Computer Science & Engineering)<br>
+		<a href="mailto:bora.cs14@iitp.ac.in">bora.cs14@iitp.ac.in</a></br>
+		+91-9523544530
+		</p>
+	</td>
+</tr>
+</table>
+<b>Electrical Engineering</b><br />
+<table style="width:100%;">
+
+<tr>
+
+	</br>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/vivek.jpg">
+		<div class="coordinfo">
+			<p>
+		Vivek Kumar<br>(Electrical Engineering)<br>
+		<a href="mailto:vivek.ee14@iitp.ac.in">vivek.ee14@iitp.ac.in</a></br>
+		+91-9006743067
+		</p>
+	</td>
+
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/somil.jpg">
+		<div class="coordinfo">
+			<p>
+		Somil Jain<br>(Electrical Engineering)<br>
+		<a href="mailto:somil.ee14@iitp.ac.in">somil.ee14@iitp.ac.in</a></br>
+		+91-70336 85978
+		</p>
+	</td>
+<tr>
+</table>
+
+</br>
+  <b>Mechanical Enigineering</b><br />
+  <table style="width:100%;">
+<tr>
+
+	</br>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/dharmesh.jpg">
+		<div class="coordinfo">
+			<p>
+		Dharmesh Kumar Dewangan<br>(Mechanical Engineering)<br>
+		<a href="mailto:dharmesh.me14@iitp.ac.in">dharmesh.me14@iitp.ac.in</a></br>
+		+91-9631110406
+		</p>
+	</td>
+
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/killi.jpg">
+		<div class="coordinfo">
+			<p>
+		Killi Santhosh Naidu<br>(Mechanical Engineering)<br>
+		<a href="mailto:killi.me14@iitp.ac.in">killi.me14@iitp.ac.in</a></br>
+		+91-9798249453
+		</p>
+	</td>
+</tr></table>
+
+<b>Civil and Infrastructure Engineering</b><br />
+<table style="width:100%;">
+<tr>
+
+	</br>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/shubhash.jpg">
+		<div class="coordinfo">
+			<p>
+		Shubhash Indrabhan Patel<br>(Civil & Infrastructure Engineering)<br>
+		<a href="mailto:patel.ce14@iitp.ac.in">patel.ce14@iitp.ac.in</a></br>
+		+91-9006696672
+		</p>
+	</td>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/nannapaneni.jpg">
+		<div class="coordinfo">
+			<p>
+		Nannapaneni Srimaan<br>(Civil & Infrastructure Engineering)<br>
+		<a href="mailto:nannapaneni.ce14@iitp.ac.in">nannapaneni.ce14@iitp.ac.in</a></br>
+		+91-9631112601
+		</p>
+	</td>
+</tr></table>
+
+<b>Chemical Science and Technology</b><br />
+<table style="width:100%;">
+<tr>
+
+	</br>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/shivam.jpg">
+		<div class="coordinfo">
+			<p>
+		Shivam Kumar Sutrakar<br>(Chemical Science and Technology)<br>
+		<a href="mailto:shivam.ch14@iitp.ac.in">shivam.ch14@iitp.ac.in</a></br>
+		+91-8329840970
+		</p>
+	</td>
+
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/nidhi.jpg">
+		<div class="coordinfo">
+			<p>
+		Nidhi Garg<br>(Chemical Science and Technology)<br>
+		<a href="mailto:nidhi.ch14@iitp.ac.in">nidhi.ch14@iitp.ac.in</a></br>
+		+91-9631112678
+		</p>
+	</td>
+</tr></table>
+-->
+<!--
+</br>
+	
+<h4>M.Tech Student Co-ordinator</h4><hr>
+
+<table style="width:100%;">
+<tr>
+	</br>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/ankit.mtcs17.jpg">
+		<div class="coordinfo">
+			<p>
+		ANKIT KUMAR<br>(Computer Science & Engineering)<br>
+		<a href="mailto:ankit.mtcs17@iitp.ac.in">ankit.mtcs17@iitp.ac.in</a></br>
+		+91-7060148103
+		</p>
+	</td>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/amit.mtmt17.jpg">
+		<div class="coordinfo">
+			<p>AMIT KUMAR<br>(Mechatronics)<br>
+		<a href="mailto:amit.mtmt17@iitp.ac.in">amit.mtmt17@iitp.ac.in</a></br>
+		+91-9567035214
+		</p>
+	</td>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/nikhilanand.mtmc17.jpg">
+		<div class="coordinfo">
+			<p>NIKHILANAND ARYA<br>(Mathematics & Computing)<br>
+		<a href="mailto:nikhilanand.mtmc17@iitp.ac.in">nikhilanand.mtmc17@iitp.ac.in</a></br>
+		+91-7061112851
+		</p>
+	</td>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/bihar.mtms17.jpg">
+		<div class="coordinfo">
+			<p>BIHAR GAURAV<br>(Materials Science & Engineering)<br>
+		<a href="mailto:bihar.mtms17@iitp.ac.in">bihar.mtms17@iitp.ac.in</a></br>
+		+91-9523871355
+		</p>
+	</td>
+</tr>
+	<tr colspan="3">	
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/bhawendra.mtee17.jpg">
+		<div class="coordinfo">
+			<p>BHAWENDRA KUMAR<br>(Materials Science & Engineering)<br>
+		<a href="mailto:bhawendra.mtee17@iitp.ac.in">bhawendra.mtee17@iitp.ac.in</a></br>
+		+91-9718782099
+		</p>
+	</td>
+	
+</tr>
+
+
+</table>
+-->
+<hr />
+
+<h4>M.Sc. Asst. Head Coordinator:</h4>
+<table>
+	<tr>
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/msc/1812ma13_Sheetal_Singh.jpg">
+		<div class="coordinfo">
+			<p>Sheetal Singh<br>(Mathematics)<br>
+		<!--<a href="mailto:1812ma13@iitp.ac.in">1812ma13@iitp.ac.in</a></br>-->
+		+91-7318149550
+		</p></td>
+		
+			<td style="width:33%;">
+			<img class="coordimage" src="images/coord/msc/1812ph05_Harshit_Gauttam.jpg">
+		<div class="coordinfo">
+			<p>Harshit Gauttam<br>(Physics)<br>
+		<!--<a href="mailto:1812ph05@iitp.ac.in">1812ph05@iitp.ac.in</a></br>-->
+		+91-8118869802
+		</p></td>
+		
+			<td style="width:33%;">
+			<img class="coordimage" src="images/coord/msc/1812CH01_Amit_Singh.jpg">
+		<div class="coordinfo">
+			<p>Amit Singh<br>(Chemistry)<br>
+		<!--<a href="mailto:1812ch01@iitp.ac.in">1812ch01@iitp.ac.in</a></br>-->
+		+91-9634922769
+		</p></td>
+		
+	</tr>
+</table>
+
+
+
+
+</br>
+<!--
+<b>Mechanical Engineering</b>
+<table style="width:100%;">
+<tr>
+
+	</br>
+
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/badrish.jpg">
+		<div class="coordinfo">
+			<p>
+		Badrish Pandey<br>(Mechanical Engineering)<br>
+		<a href="mailto:badrish.mtme16@iitp.ac.in">badrish.mtme16@iitp.ac.in</a></br>
+		+91-9650801256
+		</p>
+	</td>
+</tr></table>
+
+<br>
+<b>Nano science and Technology</b>
+<table style="width:100%;">
+<tr>
+
+	</br>
+
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/puli.jpg">
+		<div class="coordinfo">
+			<p>
+		Puli Sunny Babu<br>(Nanoscience & Technology)<br>
+		<a href="mailto:puli.mtnt16@iitp.ac.in">puli.mtnt16@iitp.ac.in</a></br>
+		+91-7032697909
+		</p>
+	</td>
+</tr></table>
+<br>
+
+<b>Mechatronics</b>
+<table style="width:100%;">
+<tr>
+	</br>
+	
+</tr></table>
+
+<br>
+<b>Mathematics And Computing</b>
+<table style="width:100%;">
+<tr>
+
+	</br>
+	
+</tr></table>
+<br>
+<!--
+<b>Communication System Engineering</b>
+<table style="width:100%;">
+<tr>
+
+	</br>
+
+	<td style="width:33%;">
+			<img class="coordimage" src="images/coord/vishakha.jpg">
+		<div class="coordinfo">
+			<p>
+		Vishakha Singh<br>(Communication System Engineering)<br>
+		<a href="mailto:vishakha.mtee16@iitp.ac.in">vishakha.mtee16@iitp.ac.in</a></br>
+		+91-7808193644
+		</p>
+	</td>
+</tr></table>
+<br>
+
+<b>Materials Science and Engineering</b>
+<table style="width:100%;">
+<tr>
+	</br>
+	
+</tr></table>
+
+<br>
+<b> VLSI & Embedded System</b>
+<table style="width:100%;">
+<tr>
+	</br>
+	
+</tr></table>
+</br>
+</br>
+
+<!--
+<b>M.Tech. Coordinators</b><br />
+
+</p>
+<b>Head Coordinator</b><br />
+<p>
+Abhishek<br>
+<a href="mailto:abhishek.mtce15@iitp.ac.in">abhishek.mtce15@iitp.ac.in</a></br>
+</p>
+<b>Computer Science</b><br />
+<p>
+Subrata Das<br>
+<a href="mailto:subrata.mtcs14@iitp.ac.in">subrata.mtcs14@iitp.ac.in</a></br>
+9006702871
+</p>
+<b>Communication System Engineering</b><br />
+<p>
+	Chandan Kumar Singh<br>
+	<a href="mailto:chandan.mtcm14@iitp.ac.in">chandan.mtcm14@iitp.ac.in</a></br>
+	8651476370
+</p>
+<b>Mechanical Engineering</b><br />
+<p>
+	Sanket A. Bhole<br>
+	<a href="mailto:bhole.mtcm14@iitp.ac.in">bhole.mtcm14@iitp.ac.in</a></br>
+	9004035910
+</p>
+<b>Material Sc. & Engineering</b><br />
+<p>
+	Mohd. Sharib<br>
+	<a href="mailto:mohd.mtcm14@iitp.ac.in">mohd.mtcm14@iitp.ac.in</a></br>
+	8541881894/9412103396
+</p>
+<b>Nanoscience and Technology</b><br />
+<p>
+	Puchakatla Venkata Subbaiah<br>
+	<a href="mailto:puchakatla.mtnt14@iitp.ac.in">puchakatla.mtnt14@iitp.ac.in</a></br>
+	9122743623
+</p>
+<b>Mechatronics</b><br />
+<p>
+	Vivek Singh<br>
+	<a href="mailto:vivek.mtmt14@iitp.ac.in">vivek.mtmt14@iitp.ac.in</a></br>
+	9709310435
+</p>
+<b>Mathematics and Computing</b><br />
+<p>
+	Danish Ali P<br>
+	<a href="mailto:danish.mtmc14@iitp.ac.in">danish.mtmc14@iitp.ac.in</a></br>
+	9006743358
+</p>
+<b>Civil & Infrastructural</b><br />
+<p>
+	Pranjul Pandey<br>
+	<a href="mailto:pranjul.mtce14@iitp.ac.in">pranjul.mtce14@iitp.ac.in</a></br>
+	7050210579
+</p>-->
+<table style="width:100%;">
+
+</table>
+
+				</div>
+			</div>
+		</div>
+		<div class="grid-20">
+			<?php include("panel.php"); ?>
+		</div>
+	</div>
+</div>
+<style type="text/css">
+.coordimage {
+    border-radius:10%;
+    border: 1px solid #000;
+    overflow:hidden;
+    width: 78px;
+    height: 73px;
+	}
+	.facimage {
+		border-radius:10%;
+    border: 1px solid #000;
+    overflow:hidden;
+    width: 78px;
+    height: 73px;
+	}
+</style>
+<?php include("footer.php"); ?>

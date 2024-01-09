@@ -1,0 +1,25 @@
+create table student_intern (id(roll_num), name, branch, type) from read_file.txt
+create table cpi_intern (id, cpi) from cpi database txt
+create table email_intern (id, email) from email database txt
+update functions.php, header.php
+copy files :
+btech12_cse
+btech12_me
+btech12_ee
+CPI_database
+downloads.php
+email_database
+functions.php
+header.php
+internships.php
+placementssum.php
+read_cpi_database.php
+read_database.php
+read_file.php
+student_intern.php
+studentlist.php
+studentlist_intern.php
+style.css
+
+copy folder CV_intern
+open read_cpi_database.php, read_database.php, read_file.php

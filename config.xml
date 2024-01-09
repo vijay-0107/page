@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	useThumbDots="false"
+
+>
+  <image imageURL="images/image1.jpg"
+	thumbURL="thumbs/image1.jpg"
+	linkURL="images/image1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image1.jpg">
+    <title><![CDATA[ADMINISTRATIVE BUILDING]]></title>
+    <caption><![CDATA[Front View]]></caption>
+  </image>
+  <image imageURL="images/image2.jpg"
+	thumbURL="thumbs/image2.jpg"
+	linkURL="images/image2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image2.jpg">
+    <title><![CDATA[Academic Block No-04 Science Block]]></title>
+    <caption><![CDATA[Physics & Chemistry]]></caption>
+  </image>
+  <image imageURL="images/image5.jpg"
+	thumbURL="thumbs/image5.jpg"
+	linkURL="images/image5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image5.jpg">
+    <title><![CDATA[BOYS HOSTEL,(G+7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image6.jpg"
+	thumbURL="thumbs/image6.jpg"
+	linkURL="images/image6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image6.jpg">
+    <title><![CDATA[Academic Block No-03 Dept. of Mechanical & Electrical Engg.]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image7.jpg"
+	thumbURL="thumbs/image7.jpg"
+	linkURL="images/image7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image7.jpg">
+    <title><![CDATA[Academic Block No-06 Dept of Civil & Environmental, Material Science, Chemical & Biochemical]]></title>
+    <caption><![CDATA[Back View]]></caption>
+  </image>
+  <image imageURL="images/image8.jpg"
+	thumbURL="thumbs/image8.jpg"
+	linkURL="images/image8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image8.jpg">
+    <title><![CDATA[Central Library]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image9.jpg"
+	thumbURL="thumbs/image9.jpg"
+	linkURL="images/image9.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image9.jpg">
+    <title><![CDATA[Work Shop –A, B,C]]></title>
+    <caption><![CDATA[Mechanical Department]]></caption>
+  </image>
+  <image imageURL="images/image10.jpg"
+	thumbURL="thumbs/image10.jpg"
+	linkURL="images/image10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image10.jpg">
+    <title><![CDATA[Academic Block No-09, Tutorial Block ]]></title>
+    <caption><![CDATA[Front View]]></caption>
+  </image>
+  <image imageURL="images/image11.jpg"
+	thumbURL="thumbs/image11.jpg"
+	linkURL="images/image11.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image11.jpg">
+    <title><![CDATA[B-Type staff quarters (G+8)]]></title>
+    <caption><![CDATA[Faculty quaters]]></caption>
+  </image>
+  <image imageURL="images/image12.jpg"
+	thumbURL="thumbs/image12.jpg"
+	linkURL="images/image12.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\tpc\photos\image12.jpg">
+    <title><![CDATA[Hospital]]></title>
+    <caption><![CDATA[Front View]]></caption>
+  </image>
+</juiceboxgallery>
